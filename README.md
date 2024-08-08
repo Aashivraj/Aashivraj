@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashivraj
-- 👀 I’m interested in ... Machine Learning 
-- 🌱 I’m currently learning ... Machine Learning
+- 👀 I’m interested in ... Machine Learning , Artificial Intelligence and Neural Networks
+- 🌱 I’m currently working as ... Python Developer and learning AI/ML skills
 - 📫 How to reach me ... saashivraj@gmail.com
 
 <!---
